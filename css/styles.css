@@ -441,6 +441,22 @@ section{padding:88px 0;}
     radial-gradient(800px 460px at 5% 100%, rgba(54,79,107,0.08), transparent 60%),
     var(--gray-50);
 }
+.guarantee-badge{
+  margin-top:24px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  background:var(--cream);
+  color:var(--orange-dark);
+  font-weight:700;
+  font-size:0.9rem;
+  padding:10px 20px;
+  border-radius:999px;
+  max-width:fit-content;
+  margin-left:auto;
+  margin-right:auto;
+}
 .calendly-caption{
   margin-top:40px;
   display:flex;
